@@ -22,8 +22,8 @@ Additionally, we have the following sections:
 - **Understanding PyTorch**: In another section, we will explore the fundamental functions of PyTorch to gain insight into our process and how PyTorch operates. We will also highlight the high-level features and aids of PyTorch that simplify our tasks.
 
 ## Google Colab Link
-You can access and run this project in Google Colab using the following link: [Open in Google Colab](https://colab.research.google.com/drive/1XuiOtRUM12k2Y25i6PjyNt3wFvS4krc0#scrollTo=WF2nze5EMlfr)
-
+You can access and run this project in Google Colab using the following link:
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XuiOtRUM12k2Y25i6PjyNt3wFvS4krc0#scrollTo=WF2nze5EMlfr)
 ## Usage
 
 To get started, clone this repository to your local machine:
