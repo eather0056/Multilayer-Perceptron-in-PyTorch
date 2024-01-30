@@ -1,6 +1,3 @@
-Certainly! Here's a sample README file for your GitHub repository titled "Multilayer Perceptron in PyTorch" where you can provide details about your code and implementation for your classwork at the University de Toulon under R. Marxer Pau:
-
-```markdown
 # Multilayer Perceptron in PyTorch
 
 Welcome to the "Multilayer Perceptron in PyTorch" repository! This project serves as a practical introduction to PyTorch (PT) for working on an artificial classification problem. It was completed as part of the coursework at the University de Toulon under the guidance of Professor R. Marxer Pau.
